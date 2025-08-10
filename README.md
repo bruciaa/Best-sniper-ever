@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go" alt="Go Badge">
   <img src="https://img.shields.io/badge/Speed-Ultra%20Fast-ff0000?style=for-the-badge&logo=rocket" alt="Speed Badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" alt="Status Badge">
-  <img src="https://img.shields.io/github/license/brucia/Best-sniper-ever?style=for-the-badge" alt="License Badge">
+  <img src="https://img.shields.io/github/license/bruciaa/Best-sniper-ever?style=for-the-badge" alt="License Badge">
 </p>
 
 <p align="center">
@@ -40,8 +40,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOURUSERNAME/YOURREPO.git
-   cd YOURREPO
+   git clone https://github.com/bruciaa/Best-sniper-ever.git
+   cd Best-sniper-ever
    ```
 
 2. **Install dependencies**
@@ -79,4 +79,4 @@ This project is for **educational purposes only**.
 
 ## 📜 License
 
-MIT License © 2025 YOUR NAME
+MIT License © 2025 BRUCE
